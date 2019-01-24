@@ -1,5 +1,5 @@
 {
-    "name": "laravel-enso/notifications",
+    "name": "boing6002/notifications",
     "description": "Notifications functionality dependency for LaravelEnso",
     "keywords": [
         "laravel-enso",
@@ -20,8 +20,8 @@
     ],
     "require": {
         "php": ">=7.1.0",
-        "laravel-enso/core": "3.6.*",
-        "laravel-enso/structuremanager": "2.5.*",
+        "boing6002/core": "dev-master",
+        "boing6002/structuremanager": "dev-master",
         "pusher/pusher-php-server": "^3.0"
     },
     "autoload": {
